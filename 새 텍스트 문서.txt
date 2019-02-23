@@ -1,0 +1,18 @@
+---저장소만들기---
+
+상위폴더 우클릭 git bush here
+
+ git init <<
+
+하나의 git 저장소가 만들어짐 백업 할 수 있는서버
+
+
+---백업----
+
+우클릭 git commit -> master
+
+(유니티인 경우 Assets , ProjectSettings 만 넣으면 됨 all 선택)
+
+선택한뒤 commit 버튼으로 1차 백업
+
+완료되었는지 확인은 상위폴더 우클릭 show log
