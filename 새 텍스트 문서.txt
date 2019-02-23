@@ -16,3 +16,12 @@
 선택한뒤 commit 버튼으로 1차 백업
 
 완료되었는지 확인은 상위폴더 우클릭 show log
+
+---삭제---
+우클릭 - Delete 후 commit하면 정말로 지울것인지 확인
+
+되돌릴땐 refresh
+
+---올리기---
+
+폴더 우클릭 push -> Arbitrary URL (gib 새로만든 저장소의 주소)
