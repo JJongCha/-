@@ -6,7 +6,7 @@
 
 하나의 git 저장소가 만들어짐 백업 할 수 있는서버
 
-
+                  sdfsdfsdfsd
 ---백업----
 
 우클릭 git commit -> master
